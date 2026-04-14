@@ -6,3 +6,6 @@ venv/
 **/minio_data/
 **/data-lake-local/
 **/shared_data/
+*_data/
+*_storage_v2/
+airflow/logs/
